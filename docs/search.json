@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Econometrics, 2026 Fall\nMicroeconomics, 2026 Fall\nPython for Business Analysis, 2026 Spring\nFinancial Management, 2026 Spring\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Zhi-Ting Xu",
     "section": "",
     "text": "Welcome! I am Zhi-Ting Xu (許至廷), an Assistant Professor in the Department of Finance at National Chung Cheng University, Taiwan.\nAs a researcher and educator, my work lies at the intersection of AI in finance, asset pricing, and behavioral finance. Specifically, my research investigates investor recognition, information asymmetry, and the implications of ownership dynamics on risk-sharing and market outcomes. I am also keenly interested in leveraging data-driven approaches, including machine learning and text analytics, to understand market anomalies.\nThis website serves as a portfolio of my academic journey. Here you can explore my latest research and access my teaching information.\nFeel free to connect with me for potential collaborations or academic discussions!\n\n\n\n\nNational Chung Cheng University | Chiayi, Taiwan\nAssistant Professor | Feb 2026 - present\n\n\n\n\nNational Central University | Taoyuan, Taiwan\nPhD in Finance | Sep 2018 - present\nThe University of Western Australia | Perth, Australia\nVisiting Ph.D. Student | Aug 2024 - Jul 2025\n\n\n\n\nEmail: ztxuccu@ccu.edu.tw\nAddress: No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan\nPhone: +886-5-2720411 ext. 34204"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Thank you for visiting. If you have any inquiries, insights, or feedback regarding my research, projects, or teaching, please feel free to reach out via email. I am always open to academic discussions and potential collaborations.\n\n\n\n\n\n\nNote💼 Professional Profile\n\n\n\n\n📧 Email: ztxuccu@ccu.edu.tw\n💼 Position: Assistant Professor of Finance\n🏫 Affiliation: Department of Finance National Chung Cheng University No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan\n📍 Office: Room 358, College of Management\n📞 Phone: +886-5-2720411 ext. 34204\n\n\n\n\n\nLinkedIn: 許至廷\nORCID: Zhi-Ting Xu"
   },
   {
     "objectID": "index.html#bio",
@@ -21,11 +21,39 @@
     "text": "Welcome! I am Zhi-Ting Xu (許至廷), an Assistant Professor in the Department of Finance at National Chung Cheng University, Taiwan.\nAs a researcher and educator, my work lies at the intersection of AI in finance, asset pricing, and behavioral finance. Specifically, my research investigates investor recognition, information asymmetry, and the implications of ownership dynamics on risk-sharing and market outcomes. I am also keenly interested in leveraging data-driven approaches, including machine learning and text analytics, to understand market anomalies.\nThis website serves as a portfolio of my academic journey. Here you can explore my latest research and access my teaching information.\nFeel free to connect with me for potential collaborations or academic discussions!"
   },
   {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Zhi-Ting Xu",
+    "section": "",
+    "text": "National Chung Cheng University | Chiayi, Taiwan\nAssistant Professor | Feb 2026 - present"
+  },
+  {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Zhi-Ting Xu",
     "section": "",
     "text": "National Central University | Taoyuan, Taiwan\nPhD in Finance | Sep 2018 - present\nThe University of Western Australia | Perth, Australia\nVisiting Ph.D. Student | Aug 2024 - Jul 2025"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Zhi-Ting Xu",
+    "section": "",
+    "text": "Email: ztxuccu@ccu.edu.tw\nAddress: No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan\nPhone: +886-5-2720411 ext. 34204"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Thank you for visiting. If you have any inquiries, insights, or feedback regarding my research, projects, or teaching, please feel free to reach out via email. I am always open to academic discussions and potential collaborations.\n\n\n\n\n\n\nNote💼 Professional Profile\n\n\n\n\n📧 Email: ztxuccu@ccu.edu.tw\n💼 Position: Assistant Professor of Finance\n🏫 Affiliation: Department of Finance National Chung Cheng University No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan\n📍 Office: Room 358, College of Management\n📞 Phone: +886-5-2720411 ext. 34204\n\n\n\n\n\nLinkedIn: 許至廷\nORCID: Zhi-Ting Xu"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "Thank you for visiting. If you have any inquiries, insights, or feedback regarding my research, projects, or teaching, please feel free to reach out via email. I am always open to academic discussions and potential collaborations.\n\n\n\n\n\n\nNote💼 Professional Profile\n\n\n\n\n📧 Email: ztxuccu@ccu.edu.tw\n💼 Position: Assistant Professor of Finance\n🏫 Affiliation: Department of Finance National Chung Cheng University No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan\n📍 Office: Room 358, College of Management\n📞 Phone: +886-5-2720411 ext. 34204\n\n\n\n\n\nLinkedIn: 許至廷\nORCID: Zhi-Ting Xu"
   },
   {
     "objectID": "research.html",
@@ -42,59 +70,10 @@
     "text": "Lee, C.-C., Wang, C.-W., & Xu, Z.-T. (2023). Signaling effect of cash holdings adjustment before bond issuance. International Review of Financial Analysis, 85, 102470. (SSCI, NSTC: A-)\nWu, M.-T., & Xu, Z.-T. (2023). Has COVID-19 Strengthened the Stock Market Herding Effect? Securities Market Development Quarterly, 35(3), 1-32. (TSSCI Tier 1)\nLee, C.-C., Wang, C.-W., & Xu, Z.-T. (2023). Managerial ability and R&D investment: Do CEOs’ and firms’ characteristics matter? Applied Economics, 56(26), 3150–3165. (SSCI, NSTC: B)\nLee, C.-C., Wang, C.-W., Thinh, B. T., & Xu, Z.-T. (2022). Climate risk and bank liquidity creation: International evidence. International Review of Financial Analysis, 82, 102198. (SSCI, NSTC: A-)"
   },
   {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact",
-    "section": "",
-    "text": "Thank you for visiting. If you have any inquiries, insights, or feedback regarding my research, projects, or teaching, please feel free to reach out via email. I am always open to academic discussions and potential collaborations.\n\n\n\n\n\n\nNote💼 Professional Profile\n\n\n\n\n📧 Email: ztxuccu@ccu.edu.tw\n💼 Position: Assistant Professor of Finance\n🏫 Affiliation: Department of Finance National Chung Cheng University No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan\n📍 Office: Room 358, College of Management\n📞 Phone: +886-5-2720411 ext. 34204\n\n\n\n\n\nLinkedIn: 許至廷\nORCID: Zhi-Ting Xu"
-  },
-  {
-    "objectID": "contact.html#location",
-    "href": "contact.html#location",
-    "title": "Contact",
-    "section": "🗺️ Location",
-    "text": "🗺️ Location"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Econometrics, 2026 Fall\nMicroeconomics, 2026 Fall\nPython for Business Analysis, 2026 Spring\nFinancial Management, 2026 Spring\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "contact.html#contact",
-    "href": "contact.html#contact",
-    "title": "Contact",
-    "section": "",
-    "text": "Welcome to my website! If you would like to share your thoughts or discuss any aspects of my research, projects, or teaching, I would be delighted to hear from you. Please feel free to reach out via email:\n\n\n\n\n\n\nNote📧 Email\n\n\n\nztxuccu@ccu.edu.tw\n\n\n\nLinkedIn\n\nGitHub\n\n\n\n\nAssistant Professor of Finance\n\n\n\nDepartment of Finance National Chung Cheng University No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan Phone: +886-5-2720411 ext. 34204"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Zhi-Ting Xu",
-    "section": "",
-    "text": "National Chung Cheng University | Chiayi, Taiwan\nAssistant Professor | Feb 2026 - present"
-  },
-  {
     "objectID": "research.html#conference",
     "href": "research.html#conference",
     "title": "Research",
     "section": "Conference",
     "text": "Conference\n\nChou, P.-H., Xu, Z.-T., & Huang, G.-Y. (2026, May). ESG rating, investor heterogeneity, and firm risk: An asset-pricing perspective. 2026 TFA Conference, New Taipei, Taiwan. 經過評選獲得「宏利投信 X 安本投資 ESG－永續投資與發展論文獎」教師與研究人員組優等"
-  },
-  {
-    "objectID": "contact.html#personal-info.",
-    "href": "contact.html#personal-info.",
-    "title": "Contact",
-    "section": "",
-    "text": "Welcome to my website! If you would like to share your thoughts or discuss any aspects of my research, projects, or teaching, I would be delighted to hear from you. Please feel free to reach out via email:\n\n\n\n\n\n\nNote📧 Email\n\n\n\nztxuccu@ccu.edu.tw\n\n\n\nLinkedIn\n\nGitHub\n\n\n\n\nAssistant Professor of Finance\n\n\n\nDepartment of Finance National Chung Cheng University No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan Phone: +886-5-2720411 ext. 34204"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Zhi-Ting Xu",
-    "section": "",
-    "text": "Email: ztxuccu@ccu.edu.tw\nAddress: No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan\nPhone: +886-5-2720411 ext. 34204"
   }
 ]

@@ -1,14 +1,14 @@
 {
+  "contact.qmd": {
+    "contact.html": "33174bea"
+  },
   "index.qmd": {
-    "index.html": "1a2f2ada"
+    "index.html": "3879efb1"
   },
   "research.qmd": {
-    "research.html": "f0d30044"
+    "research.html": "bef5ebe1"
   },
   "teaching.qmd": {
-    "teaching.html": "0847a9f9"
-  },
-  "contact.qmd": {
-    "contact.html": "df0659b7"
+    "teaching.html": "02b48618"
   }
 }

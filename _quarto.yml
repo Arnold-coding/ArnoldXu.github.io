@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Zhi-Ting Xu"
+  title: "Zhi-Ting Xu | 許至廷 | Department of Finance at CCU"
+  favicon: "images/quokka.jpg"
   navbar:
     background: dark
     left:
