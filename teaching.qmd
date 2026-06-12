@@ -1,0 +1,8 @@
+---
+title: "Teaching"
+---
+
+- Econometrics, 2026 Fall
+- Microeconomics, 2026 Fall
+- Python for Business Analysis, 2026 Spring
+- Financial Management, 2026 Spring

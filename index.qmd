@@ -1,0 +1,57 @@
+---
+title: "Zhi-Ting Xu"
+
+about:
+  template: trestles
+  image: images/ID.jpg
+  image-width: 15em
+  image-shape: rectangle
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    code-fold: true
+
+---
+::: {.column-page}
+
+## Bio
+Welcome! I am **Zhi-Ting Xu (許至廷)**, an Assistant Professor in the Department of Finance at National Chung Cheng University, Taiwan. 
+
+As a researcher and educator, my work lies at the intersection of **AI in finance**, **asset pricing**, and **behavioral finance**. Specifically, my research investigates investor recognition, information asymmetry, and the implications of ownership dynamics on risk-sharing and market outcomes. I am also keenly interested in leveraging data-driven approaches, including machine learning and text analytics, to understand market anomalies.
+
+This website serves as a portfolio of my academic journey. Here you can explore my latest research and access my teaching information. 
+
+Feel free to connect with me for potential collaborations or academic discussions!
+
+---
+
+## Experience
+
+**National Chung Cheng University** | Chiayi, Taiwan  
+Assistant Professor | Feb 2026 - present  
+
+
+---
+
+## Education
+
+**National Central University** | Taoyuan, Taiwan  
+PhD in Finance | Sep 2018 - present  
+
+**The University of Western Australia** | Perth, Australia  
+Visiting Ph.D. Student | Aug 2024 - Jul 2025  
+
+
+---
+
+## Contact
+**Email:** ztxuccu@ccu.edu.tw 
+
+**Address:** No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan 
+
+**Phone:** +886-5-2720411 ext. 34204
+
+---
+
+:::

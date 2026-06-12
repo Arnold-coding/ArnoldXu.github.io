@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zhi-Ting Xu"
+  navbar:
+    background: dark
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Contact"
+        href: contact.qmd
+    style: "docked"
+  back-to-top-navigation: true
+
+  page-footer:
+      right: "This page is built with Python and [Quarto](https://quarto.org/)."
+      left: "&copy; Copyright 2026, Zhi-Ting Xu"
+
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+
+    css: styles/custom.css
+    toc: true
+    code-fold: true

@@ -1,0 +1,33 @@
+---
+title: "Contact"
+---
+
+## Get in Touch
+
+Thank you for visiting. If you have any inquiries, insights, or feedback regarding my research, projects, or teaching, please feel free to reach out via email. I am always open to academic discussions and potential collaborations.
+
+
+::: {.callout-note appearance="simple"}
+
+### 💼 Professional Profile
+
+* 📧 **Email:** [ztxuccu@ccu.edu.tw](mailto:ztxuccu@ccu.edu.tw)
+* 💼 **Position:** **Assistant Professor of Finance**
+* 🏫 **Affiliation:** 
+  Department of Finance<br />
+  National Chung Cheng University<br />
+  No. 168, Sec. 1, University Road, Minxiong Township, Chiayi County 621301, Taiwan
+* 📍 **Office:** Room 358, College of Management 
+* 📞 **Phone:** +886-5-2720411 ext. 34204
+
+---
+
+### 🌐 Online Profiles
+
+* **LinkedIn:** [許至廷](www.linkedin.com/in/
+ztxu)
+* **ORCID:** [Zhi-Ting Xu](https://orcid.org/0009-0000-6084-8255)
+:::
+
+
+
