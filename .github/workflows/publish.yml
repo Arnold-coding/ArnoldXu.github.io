@@ -1,0 +1,28 @@
+name: Quarto Publish
+
+on:
+  push:
+    branches: [ main ] # 只要 main 分支有更新，雲端就會自動觸發編譯
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      # 如果您的網頁未來包含 Python 程式碼，請取消下方三行的註解
+      # - name: Set up Python
+      #   uses: actions/setup-python@v5
+      #   with:
+      #     python-version: '3.10'
+
+      - name: Render and Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
